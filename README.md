@@ -1,5 +1,7 @@
 # 🌍 Latency Topology Visualizer
 
+Live Link:- https://latency-topology-visualizer-alpha.vercel.app/
+
 A real-time 3D network latency visualization tool that displays connections between cryptocurrency exchanges and cloud provider regions on an interactive globe. Built with **Next.js**, **React**, and **react-globe.gl**.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
